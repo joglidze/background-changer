@@ -1,0 +1,12 @@
+.b_color {
+  background-color: rgb(68, 101, 123);
+}
+body {
+  text-align: center;
+  margin: 20%;
+  
+}
+button {
+  padding: 5%;
+  border-radius: 100px;
+}
